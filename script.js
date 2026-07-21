@@ -1,3 +1,4 @@
+// [실습6] Git 커밋 테스트
 let posts = [
   { id: 1, title: '첫 글' },
   { id: 2, title: '둘째 글' },
